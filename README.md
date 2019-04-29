@@ -37,6 +37,7 @@
 **对自己的照片有特定的呈现方式的，可以自行提供已经排版完毕的pdf或ind文件**
 
 为了方便像我们一样的GitHub小白，附上在网上找到的两条GitHub使用指南供大家参考。
+
 [简易GitHub使用指南](https://www.jianshu.com/p/68b9e463333f)
 
 [GitHub文字编辑指南](https://www.jianshu.com/p/9ab92efc286a)
